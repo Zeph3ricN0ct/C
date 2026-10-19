@@ -28,4 +28,5 @@ int main()\
         t++;
     }while(i>0);
     printf("%d\n",sum/t);
+    return 0;
 }
